@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27922" started-at="2019-01-08T10:39:19Z" finished-at="2019-01-08T10:39:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27922" started-at="2019-01-08T10:39:19Z" finished-at="2019-01-08T10:39:46Z">
+      <class name="OpenBrowsers">
+        <test-method status="PASS" signature="browsermethod()[pri:0, instance:OpenBrowsers@42d80b78]" name="browsermethod" is-config="true" duration-ms="7917" started-at="2019-01-08T10:39:19Z" finished-at="2019-01-08T10:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsermethod -->
+        <test-method status="PASS" signature="OpenJSONviewer()[pri:0, instance:OpenBrowsers@42d80b78]" name="OpenJSONviewer" duration-ms="2785" started-at="2019-01-08T10:39:26Z" finished-at="2019-01-08T10:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenJSONviewer -->
+        <test-method status="PASS" signature="OpenMavenRepo()[pri:0, instance:OpenBrowsers@42d80b78]" name="OpenMavenRepo" duration-ms="8289" started-at="2019-01-08T10:39:29Z" finished-at="2019-01-08T10:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenMavenRepo -->
+        <test-method status="PASS" signature="OpenairtelCare()[pri:0, instance:OpenBrowsers@42d80b78]" name="OpenairtelCare" duration-ms="8201" started-at="2019-01-08T10:39:38Z" finished-at="2019-01-08T10:39:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenairtelCare -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:OpenBrowsers@42d80b78]" name="browserclose" is-config="true" duration-ms="708" started-at="2019-01-08T10:39:46Z" finished-at="2019-01-08T10:39:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- OpenBrowsers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
